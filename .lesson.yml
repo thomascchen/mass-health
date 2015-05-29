@@ -1,0 +1,8 @@
+---
+title: "Mass Health"
+type: "challenge"
+description: "Import statistical data into a database and create SQL queries."
+tags: "sql, postgres"
+ignore:
+- "mass-health.md"
+- "mass-chip-data.csv"
